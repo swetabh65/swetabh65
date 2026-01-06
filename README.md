@@ -100,7 +100,7 @@ Expertise includes:
 ### 🔹 jenkins-ci-cd-pipeline
 | Repository | Purpose |
 |-----------|--------|
-| [jenkins-ci-cd-pipeline](git@github.com:swetabh65/CI-CD-Pipeline_Jenkins.git) | CI/CD pipeline implementation for test automation |
+| [CI-CD-Pipeline_Jenkins](https://github.com/swetabh65/CI-CD-Pipeline_Jenkins) | CI/CD pipeline implementation for test automation |
 
 ---
 

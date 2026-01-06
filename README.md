@@ -93,7 +93,7 @@ Expertise includes:
 ### 🔹 aws-devops-for-qa
 | Repository | Purpose |
 |-----------|--------|
-| aws-devops-for-qa | Cloud-native QA automation using AWS services |
+| [aws-devops-for-qa](https://github.com/swetabh65/KubernetesDeploymentStrategies.git) | Cloud-native QA automation using AWS services |
 
 ---
 

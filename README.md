@@ -113,7 +113,7 @@ Expertise includes:
 
 ## 📜 Certifications
 
-🏅 Tricentis **TOSCA (AS1, AS2, AE1, TDS1, TDS2)**  
+🏅 Tricentis **TOSCA (AS1, AS2, AE1, API, TDS1, TDS2)**  
 ☁️ **Microsoft Certified: Azure Fundamentals**  
 🤖 **Generative AI – Data, Tech & Finance**
 

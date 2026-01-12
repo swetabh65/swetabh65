@@ -72,21 +72,21 @@ Expertise includes:
 ### 🔹 qa-automation-architecture
 | Repository | Purpose |
 |-----------|--------|
-| qa-automation-architecture | Enterprise QA framework design, governance, and scalability patterns |
+| To be updated | Enterprise QA framework design, governance, and scalability patterns |
 
 ---
 
 ### 🔹 playwright-enterprise-framework
 | Repository | Purpose |
 |-----------|--------|
-| playwright-enterprise-framework | Modern web automation framework with best practices |
+| To be updated | Modern web automation framework with best practices |
 
 ---
 
 ### 🔹 api-automation-restassured
 | Repository | Purpose |
 |-----------|--------|
-| api-automation-restassured | REST API automation using Rest Assured and Java |
+| To be updated | REST API automation using Rest Assured and Java |
 
 ---
 
@@ -107,7 +107,7 @@ Expertise includes:
 ### 🔹 tosca-enterprise-usecases
 | Repository | Purpose |
 |-----------|--------|
-| tosca-enterprise-usecases | Real-world TOSCA automation assets and enterprise scenarios |
+| To be updated | Real-world TOSCA automation assets and enterprise scenarios |
 
 ---
 
